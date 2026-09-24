@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a Linguistics student at San José State University exploring **NLP, machine learning, and computer science**.
+
+Currently building:
+- **Local Document Assistant** — self-hosted LLM document summarization and Q&A
+- **PCA for Sentence Embeddings** — PCA implemented from scratch and applied to language embeddings
+- **Homelab** — experimenting with local AI inference, Linux servers, networking, and self-hosted services
+
+`Python` · `PyTorch` · `Flask` · `NumPy` · `scikit-learn` · `Linux`
+
+Interested in **NLP · Machine Learning · LLM Systems · Computational Linguistics**
 <!--
 **AlexCLien/AlexCLien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
